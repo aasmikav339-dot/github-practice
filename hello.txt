@@ -1,2 +1,3 @@
 This is my first practice file in my Git learning repo.
 I am learning how to use Git and GitHub.
+I am going to learn Python next.
