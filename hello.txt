@@ -1,0 +1,2 @@
+This is my first practice file in my Git learning repo.
+I am learning how to use Git and GitHub.
